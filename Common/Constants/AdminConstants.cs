@@ -17,5 +17,6 @@
         public const string CANNOT_MARK_ATTENDANCE_CUSTOMER = "Cannot mark attendance for customer.";
         public const string INVALID_MESSAGE = "This is invalide message this is fist demo";
         public const string this_isDevelopBrach = "This is develop branch";
+        // this is harsh1 branch
     }
 }
